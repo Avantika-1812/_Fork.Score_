@@ -20,6 +20,14 @@ curl -o PlantVillage_Dataset.zip https://www.kaggle.com/api/v1/datasets/download
 ```
 Extract the zip file and change the folder name to plantvillage_dataset
 
+## Resolving Dependencies
+If using anaconda use the following command in base(root) terminal of anaconda to resolve all the depedencies
+```bash
+conda env create -f tf.yaml ```
+```
+```bash
+conda activate tf ```
+```
 ## How to run the Application
 Open the review_analysis_app.py and run the followind command in the Terminal
 ```bash
