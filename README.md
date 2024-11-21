@@ -16,9 +16,9 @@ cd _Fork.Score_
 To download the project dataset run the following command in a terminal  
 
 ```bash
-curl -o PlantVillage_Dataset.zip https://www.kaggle.com/api/v1/datasets/download/abdallahalidev/plantvillage-dataset ```
+curl -o https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/input?select=Reviews.csv
 ```
-Extract the zip file and change the folder name to plantvillage_dataset
+Extract the zip file and change the folder name to Reviews_analysis.csv
 
 ## Resolving Dependencies
 If using anaconda use the following command in base(root) terminal of anaconda to resolve all the depedencies
